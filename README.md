@@ -6,5 +6,6 @@
   <br>
   <br>
   <br>
-  Esta aplicacion te va a ayudar a hacer los ejercicios de la "Gimnasia Basica sin Armas"
+  Esta aplicacion te va a ayudar a hacer los ejercicios de la "Gimnasia Basica sin Armas"<br>
+  Puedes empezar a usarla ahora: <a href="https://github.com/brandonsneiders/GimSub/releases/tag/Apk">ANDROID APK</a>
   
