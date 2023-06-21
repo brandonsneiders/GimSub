@@ -18,6 +18,6 @@
     2. Se añadio un inicio de sesion sin usuario de manera experimental
     3. Se añadio la opcion de <font><font color=yellow>IMPORTANCIAS</font> de los ejercicios.
     4. Se optimizo la interfaz de usuario
-      <img alt="Untitled (1).png" src="https://github.com/brandonsneiders/GimSub/blob/main/Untitled%20(1).png?raw=true" data-hpc="true" width="500" height="300">
+      <img alt="Untitled (1).png" src="https://github.com/brandonsneiders/GimSub/blob/main/Untitled%20(1).png?raw=true" data-hpc="true" width="400" height="400">
     </html>
   
