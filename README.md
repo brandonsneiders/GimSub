@@ -8,7 +8,7 @@
   <br>
   Esta aplicacion te va a ayudar a hacer los ejercicios de la "Gimnasia Basica sin Armas"<br>
   Puedes empezar a usarla ahora: <a href="https://github.com/brandonsneiders/GimSub/releases/tag/Apk">ANDROID APK</a>
-   <img alt="Untitled (1).png" src="https://github.com/brandonsneiders/GimSub/blob/main/Untitled%20(1).png?raw=true" data-hpc="true" width="400" height="400">
+   <img alt="Untitled (1).png" src="https://github.com/brandonsneiders/GimSub/blob/main/Untitled%20(1).png?raw=true" data-hpc="true" width="300" height="300">
   <br>
   <br>
   <br>
